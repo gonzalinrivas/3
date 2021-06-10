@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="counter_max_name">50</integer>
+    <integer name="counter_max_Password">10</integer>
+    <integer name="counter_max_nombre">20</integer>
+    <integer name="counter_max_apellidos">40</integer>
+</resources>
